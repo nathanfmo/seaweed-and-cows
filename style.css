@@ -4,8 +4,17 @@ body {
   justify-content: center;
 }
 
+h3 {
+ font-family: 'Pacifico', cursive; 
+}
+
 #permit-form {
   background-color: white;
   color: black;
   border-color: blue;
+}
+
+@font-face {
+ font-family: 'Pacifico', cursive;
+ src: url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); 
 }
