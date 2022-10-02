@@ -9,6 +9,7 @@ body {
   border-style: dotted;
   border-color: white;
   margin: 25px, 50px;
+  padding: 10px, 25px;
 }
 
 h1, h3 {
