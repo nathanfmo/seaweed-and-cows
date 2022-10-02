@@ -7,7 +7,7 @@ body {
 .container {
   background-color: rgb(143, 217, 212);
   border-style: dotted;
-  border-color: aqua;
+  border-color: white;
   margin: 25 px, 50px;
 }
 
