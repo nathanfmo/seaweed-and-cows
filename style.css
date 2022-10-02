@@ -8,10 +8,10 @@ body {
   background-color: rgb(143, 217, 212);
   border-style: dotted;
   border-color: white;
-  margin: 25 px, 50px;
+  margin: 25px, 50px;
 }
 
-h3 {
+h1, h3 {
  font-family: 'Pacifico', cursive; 
  color: red;
 }
