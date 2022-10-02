@@ -5,9 +5,10 @@ body {
 }
 
 .container {
-  background-color: white;
+  background-color: rgb(143, 217, 212);
   border-style: dotted;
   border-color: aqua;
+  margin: 25 px, 50px;
 }
 
 h3 {
